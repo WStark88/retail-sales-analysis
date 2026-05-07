@@ -1,20 +1,38 @@
-# Retail Sales Analysis
+\# Retail Sales Analysis
+
+
 
 Este proyecto analiza y predice las ventas de una tienda de retail utilizando técnicas de ciencia de datos.
 
-## Estructura del Proyecto
 
-- : Contiene los archivos de datos.
-- : Contiene los notebooks de Jupyter para el análisis.
-- : Contiene el código fuente del proyecto.
-- : Este archivo.
 
-## Instrucciones de Instalación
+\## Estructura del Proyecto
 
-1. Clona el repositorio: 
-2. Instala las dependencias: 
 
-## Uso
 
-Ejecuta los notebooks de Jupyter en la carpeta  para realizar el análisis de los datos.
-# retail-sales-analysis
+\- `data/`: Contiene los archivos de datos.
+
+\- `notebooks/`: Contiene los notebooks de Jupyter para el análisis.
+
+\- `src/`: Contiene el código fuente del proyecto.
+
+\- `README.md`: Este archivo.
+
+
+
+\## Instrucciones de Instalación
+
+
+
+1\. Clona el repositorio: `git clone https://github.com/tu\_usuario/retail-sales-analysis.git`
+
+2\. Instala las dependencias: `pip install -r requirements.txt`
+
+
+
+\## Uso
+
+
+
+Ejecuta los notebooks de Jupyter en la carpeta `notebooks` para realizar el análisis de los datos.
+
